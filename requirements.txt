@@ -1,0 +1,9 @@
+interruptingcow
+colorlog
+prometheus_api_client
+google-api-python-client==1.12.8
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
+slack_sdk
+pycodestyle==2.7.0
